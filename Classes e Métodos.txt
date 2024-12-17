@@ -1,0 +1,4 @@
+Classes:
+Livro - Autor, título, editora, ano, emprestado
+Empréstimo - Data do empréstimo, data de devolção
+Usuário - Nome, CPF, email

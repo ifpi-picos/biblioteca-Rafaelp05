@@ -1,0 +1,1 @@
+Explique sobre o this, getters, sobre o isEmprestado, set, o trecho do código que atualiza o status de comprado.
